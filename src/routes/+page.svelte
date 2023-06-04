@@ -9,24 +9,23 @@
 <div class="readable-area">
 	<a class="header" href="./photo.html">
 		<div class="header-text">
-			<h1>Squarepants, Spongebob</h1>
-			<p>Head Chef</p>
+			<h1>Pink Floyd</h1>
+			<p>70's Band</p>
 		</div>
 		<img
-			alt="spongebob avatar"
-			class="avatar"
-			src="https://play-lh.googleusercontent.com/9XA4q4TKYtF2l5oN10M8oumPauR9g5lFOAJXjczrd3Gmq9cwQ8QOQJ-2KZv84s1oTA"
+			alt="Taylor Swift"
+			class="Singer-Songwriter"
+			src="https://www.refinery29.com/images/9929748.jpg"
 		/>
 	</a>
 
 	<div class="content">
-		<Section iconData={user} title="Profile">
+		<Section iconData={user} title="Long Story Short,">
 			<p>
-				Hello, my name is Spongebob Squarepants and I'm passionate about creating the best possible
-				food. In my spare time, I like to catch jellyfishes with my trusty net.
+				Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. Recognized for her genre-spanning discography, songwriting, and artistic reinventions, Swift is a prominent cultural figure who has been cited as an influence on a generation of music artists.
 			</p>
 		</Section>
-		<Section iconData={book} title="Education">
+		<Section iconData={book} title="Origins">
 			<ul>
 				<li>
 					2011-2014
