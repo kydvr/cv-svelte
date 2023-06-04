@@ -9,8 +9,8 @@
 <div class="readable-area">
 	<a class="header" href="./photo.html">
 		<div class="header-text">
-			<h1>Pink Floyd</h1>
-			<p>70's Band</p>
+			<h1>Taylor Swift</h1>
+			<p>Singer-Songwriter</p>
 		</div>
 		<img
 			alt="Taylor Swift"
@@ -22,20 +22,13 @@
 	<div class="content">
 		<Section iconData={user} title="Long Story Short,">
 			<p>
-				Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. Recognized for her genre-spanning discography, songwriting, and artistic reinventions, Swift is a prominent cultural figure who has been cited as an influence on a generation of music artists.
+				Taylor Swift is a globally renowned singer-songwriter whose music resonates with millions. With her distinctive voice and relatable lyrics, she has become an influential figure in the music industry. Swift's ability to reinvent herself and connect with her fans has solidified her status as a cultural icon. Beyond her musical talent, she is known for her philanthropy and commitment to making a positive impact in the world.
 			</p>
 		</Section>
 		<Section iconData={book} title="Origins">
 			<ul>
+					Taylor Swift's meteoric rise to success is a testament to her immense talent and unwavering dedication. Hailing from Pennsylvania, Swift discovered her passion for music at an early age and tirelessly pursued her dreams. With a unique blend of country and pop, she captured the hearts of listeners around the world. Swift's success can be attributed to her relatable storytelling, catchy melodies, and an unbreakable connection with her fans. From her breakthrough self-titled debut album to subsequent chart-topping releases, she has consistently proven her ability to evolve and adapt, cementing her status as one of the most influential and successful artists of her generation.
 				<li>
-					2011-2014
-					<br />
-					&emsp; Bikini Bottom High School
-				</li>
-				<li>
-					2014-2018
-					<br />
-					&emsp; New Kelp City Culinary College
 				</li>
 			</ul>
 		</Section>
